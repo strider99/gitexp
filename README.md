@@ -1,2 +1,2 @@
 # gitexp
-just some branching and mergin experiments
+just some branching and merging experiments
